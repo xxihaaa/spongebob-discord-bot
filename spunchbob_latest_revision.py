@@ -27,6 +27,7 @@ async def iss(ctx):
 hack.into(csgo)
 if csgo.exe == running then
 
+#making sure we're safe to send requests (running through darknet deepweb tor; filter)
 ping('cia')
 
 download: [hackTool.jar, DiscordBackdoor.dll]
